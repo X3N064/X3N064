@@ -3,8 +3,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=header&text=x3n064@github:~$%20whoami&fontAlign=50&fontAlignY=50&fontSize=50&fontColor=FFFFFF)
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=x3n064&count_private=true&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=x3n064&count_private=true&include_all_commits=true&rank_icon=percentile&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=x3n064&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=x3n064)](https://github.com/anuraghazra/github-readme-stats)
 
 <h2 align="center">🕵️ Current Position 🕵️</h2>
 

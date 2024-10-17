@@ -1,3 +1,11 @@
+<div align=center>
+<h1>🤔 Hmm... 🤨</h1>
+<div class="img-card" style="overflow: hidden; display: flex; justify-content: center; align-items: center; width: 500px; height: 500px; border-radius: 50%;">
+    <img src="https://media1.tenor.com/m/H8sFCwcrb6UAAAAC/bruh.gif" style="width: 100%; height: 100%; object-fit: cover;">
+
+  
+</div>
+<h1></h1>
 <div align="center">
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=header&text=x3n064@github:~$%20whoami&fontAlign=50&fontAlignY=50&fontSize=50&fontColor=FFFFFF)
@@ -11,6 +19,12 @@
 ![alt text](https://badges.aleen42.com/src/hacker.svg)
 
 <img src="http://www.hackthebox.eu/badge/image/282314" alt="Hack The Box">
+
+<h2 align="center">👀 What am I doing right now? 👀</h2>
+
+<div class="same-line" style="display: inline-flex">
+    <a align="left" href="https://discord.com/users/703317017113133106"><img src="https://lanyard.cnrad.dev/api/703317017113133106?theme=light&bg=809ecf&animated=false&borderRadius=30px&idleMessage=Probably%20doing%20something%20else..." alt="Discord" /></a>
+</div>
 
 <h2 align="center">😈 Using & Used 😈</h2>
 

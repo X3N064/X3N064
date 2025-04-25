@@ -28,6 +28,8 @@
 
 <h2 align="center">💸📈 Financial Status 💲📉</h2>
 
+![📈 Live Trading](https://raw.githubusercontent.com/X3N064/My-Portfolio/main/assets/trading.gif)
+
 <h2 align="center">😈 Using & Used 😈</h2>
 
 <h3 align="center"> 📚 Docs</h3>

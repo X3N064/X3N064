@@ -14,7 +14,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=x3n064&count_private=true&include_all_commits=true&rank_icon=percentile&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=x3n064&layout=compact&langs_count=20&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-<h2 align="center">🕵️ Current Position 🕵️</h2>
+<h2 align="center">🕵️ Yeah 🕵️</h2>
 
 ![alt text](https://badges.aleen42.com/src/hacker.svg)
 
@@ -35,7 +35,6 @@
 
 <h3 align="center"> ⛓️ Blockchains</h3>
 
-![Binance](https://img.shields.io/badge/Binance-FCD535?style=for-the-badge&logo=binance&logoColor=white)
 ![Bitcoin](https://img.shields.io/badge/Bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=white)
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)
 ![Monero](https://img.shields.io/badge/monero-FF6600?style=for-the-badge&logo=monero&logoColor=white)
@@ -85,7 +84,7 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
   
-<h3 align="center"> 🤖 AI and Bots</h3>
+<h3 align="center"> 🤖 AI </h3>
 
 ![Google Assistant](https://img.shields.io/badge/google%20assistant-4285F4?style=for-the-badge&logo=google%20assistant&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
@@ -94,7 +93,7 @@
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
  
-<h3 align="center"> ☁️  IaaS, SaaS, and PaaS, or Could</h3>
+<h3 align="center"> ☁️  IaaS, SaaS, and PaaS, or just Cloud</h3>
 
 ![Dropbox](https://img.shields.io/badge/Dropbox-%233B4D98.svg?style=for-the-badge&logo=Dropbox&logoColor=white)
 ![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)
@@ -174,11 +173,11 @@
 
 ![alt text](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white) : **@x3n064**
 
-![alt text](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white) : **》《3|\|0#8137**
+![alt text](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white) : **x3n064**
 
 ![alt text](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) : [![alt text](https://img.shields.io/badge/-click%20me-lightgrey)](mailto:kitoko148@gmail.com)
 
-![alt text](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white) : [![alt text](https://img.shields.io/badge/-click%20me-lightgrey)](https://twitter.com/kitoko148)
+![alt text](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white) : [![alt text](https://img.shields.io/badge/-click%20me-lightgrey)](https://x.com/x3n064)
 
 ![alt text](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white) : [![alt text](https://img.shields.io/badge/-click%20me-lightgrey)](https://www.facebook.com/Hsim21)
 

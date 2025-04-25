@@ -26,6 +26,8 @@
     <a align="left" href="https://discord.com/users/703317017113133106"><img src="https://lanyard.cnrad.dev/api/703317017113133106?theme=light&bg=809ecf&animated=false&borderRadius=30px&idleMessage=Probably%20doing%20something%20else..." alt="Discord" /></a>
 </div>
 
+<h2 align="center">💸📈 Financial Status 💲📉</h2>
+
 <h2 align="center">😈 Using & Used 😈</h2>
 
 <h3 align="center"> 📚 Docs</h3>
